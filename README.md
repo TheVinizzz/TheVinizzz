@@ -1,6 +1,6 @@
 ## Hello, welcome to my profile 😄
 
-My name is Carlos Vinicius, and I'm from Brazil <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-brazil_1f1e7-1f1f7.png" /> (:brazil:). 
+My name is Carlos Vinicius, and I'm from Brazil <img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-brazil_1f1e7-1f1f7.png" /> (:brazil:). 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)](https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ViniPB)](https://www.facebook.com/ViniPB)
