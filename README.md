@@ -2,6 +2,13 @@
 
 My name is Carlos Vinicius, and I'm from Brazil <img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-brazil_1f1e7-1f1f7.png" /> (:brazil:). I have been working as a front-end developer since 2012 (I also have a past as a server developer for Ragnarok)
 
+## Fun Facts 🚀
+<ul>
+  <li>🧙🏻 I love Retro Games</li>
+ <li>💻 I love developing games</li>
+  <li>👨🏻‍💻 I'm always learning new technologies</li>
+</ul>
+
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)](https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)
