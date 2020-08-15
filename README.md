@@ -6,9 +6,9 @@ I have been working as a front-end developer since 2012 (I also have a past as a
 
 ## Fun Facts 🚀
 <ul>
-  <li>🧙🏻 I love Retro Games</li>
- <li>💻 I love developing games</li>
-  <li>👨🏻‍💻 I'm always learning new technologies</li>
+  <li>🧙🏻  I love Retro Games.</li>
+ <li>💻  I love developing games.</li>
+  <li>👨🏻‍💻  I'm always learning new technologies.</li>
 </ul>
 
 Would you like to find me?
