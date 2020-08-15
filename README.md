@@ -6,7 +6,7 @@ I have been working as a front-end developer since 2012 (I also have a past as a
 
 ## Fun Facts 🚀
 <ul>
-  <li><img width="25" src="https://img.icons8.com/color/48/000000/javascript.png"/> I love to develop in JavaScript.</li>
+  <li><img width="23" src="https://img.icons8.com/color/48/000000/javascript.png"/> I love to develop in JavaScript.</li>
   <li>🧙🏻  I love Retro Games.</li>
  <li>💻  I love developing games.</li>
   <li>👨🏻‍💻  I'm always learning new technologies.</li>
