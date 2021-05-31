@@ -14,6 +14,10 @@ I have been working as a full-stack developer since 2012 (I also have a past as 
 
 Would you like to find me?
 
+<a href="https://github.com/alttabs">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thevinizzz&show_icons=true&custom_title=GitHub+Stats&theme=vue">
+</a>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)](https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ViniPB)](https://www.facebook.com/ViniPB)
 <!--
