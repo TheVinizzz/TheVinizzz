@@ -18,6 +18,10 @@ Would you like to find me?
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thevinizzz&show_icons=true&custom_title=GitHub+Stats&theme=vue">
 </a>
 
+<a href="https://github.com/thevinizzz">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinizzz&layout=compact&langs_count=7&theme=vue">
+</a>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)](https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ViniPB)](https://www.facebook.com/ViniPB)
 <!--
