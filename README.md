@@ -15,7 +15,7 @@ I have been working as a full-stack developer since 2012 (I also have a past as 
 Would you like to find me?
 
 <a href="https://github.com/thevinizzz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thevinizzz&show_icons=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thevinizzz&show_icons=true&custom_title=GitHub+Stats&theme=vue">
 </a>
 
 <a href="https://github.com/thevinizzz">
