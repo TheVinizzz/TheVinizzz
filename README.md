@@ -15,11 +15,11 @@ I have been working as a full-stack developer since 2012 (I also have a past as 
 Would you like to find me?
 
 <a href="https://github.com/thevinizzz">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thevinizzz&show_icons=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thevinizzz&show_icons=true&custom_title=GitHub+Stats&theme=vue">
 </a>
 
 <a href="https://github.com/thevinizzz">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinizzz&layout=compact&langs_count=7&theme=vue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinizzz&layout=compact&langs_count=7&theme=vue">
 </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)](https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)
