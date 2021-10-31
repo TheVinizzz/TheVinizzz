@@ -19,7 +19,7 @@ Would you like to find me?
 </a>
 
 <a href="https://github.com/thevinizzz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinizzz&layout=compact&langs_count=7&theme=vue">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinizzz&layout=compact&langs_count=7&theme=vue">
 </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)](https://www.linkedin.com/in/vinicius-p%C3%AA-borges-baab17191/)
