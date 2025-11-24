@@ -15,10 +15,6 @@ I have been working as a full-stack developer since 2012 (I also have a past as 
 Would you like to find me?
 
 <a href="https://github.com/thevinizzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thevinizzz&show_icons=true&custom_title=GitHub+Stats&theme=vue">
-</a>
-
-<a href="https://github.com/thevinizzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinizzz&layout=compact&langs_count=7&theme=vue">
 </a>
 
