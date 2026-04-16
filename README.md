@@ -1,15 +1,17 @@
 ## Hello, welcome to my profile 😄
 
-My name is Carlos Vinicius, and I'm from Brazil 🇧🇷 
+My name is Carlos Vinicius, and I'm from Brazil 🇧🇷
 <br>
-I have been working as a full-stack developer since 2012 (I also have a past as a server developer for Ragnarok).
+I've been building things on the web for well over a decade as a full-stack developer — and long before that, I was already knee-deep in code, cutting my teeth developing private servers for Ragnarok Online back in the golden age of the game's Brazilian scene. Those late nights debugging eAthena scripts taught me more than any classroom ever could.
 
 ## Fun Facts 🚀
+
 <ul>
   <li><img width="23" src="https://img.icons8.com/color/48/000000/javascript.png"/> I love to develop in JavaScript.</li>
-  <li>🧙🏻  I love Retro Games.</li>
- <li>💻  I love developing games.</li>
-  <li>👨🏻‍💻  I'm always learning new technologies.</li>
+  <li>🧙🏻 I love Retro Games — they're the reason I got into this in the first place.</li>
+  <li>💻 I love developing games.</li>
+  <li>👨🏻‍💻 I'm always learning new technologies.</li>
+  <li>⚔️ Yes, I probably played (and hosted) your favorite private server back in the day.</li>
 </ul>
 
 Would you like to find me?
@@ -20,17 +22,3 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thevinizzz/)](https://www.linkedin.com/in/thevinizzz/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ViniPB)](https://www.facebook.com/ViniPB)
-<!--
-**TheVinizzz/TheVinizzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
