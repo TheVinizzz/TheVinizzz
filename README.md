@@ -7,7 +7,6 @@ I've been building things on the web for well over a decade as a full-stack deve
 ## Fun Facts 🚀
 
 <ul>
-  <li><img width="23" src="https://img.icons8.com/color/48/000000/javascript.png"/> I love to develop in JavaScript.</li>
   <li>🧙🏻 I love Retro Games — they're the reason I got into this in the first place.</li>
   <li>💻 I love developing games.</li>
   <li>👨🏻‍💻 I'm always learning new technologies.</li>
