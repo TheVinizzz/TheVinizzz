@@ -10,12 +10,13 @@ If something here is useful to you, take it. PRs welcome, issues welcomer, DMs o
 
 #### A few things I'm building right now
 
-- **[Isle](https://github.com/TheVinizzz/Isle)** — making the MacBook notch earn its keep. Music, calendar, FX rates, audio halo.
-- **[huashu-design](https://github.com/TheVinizzz/huashu-design)** — HTML-native design skill for Claude Code. Prototypes, slides, animation, MP4 export.
-- **[caveman](https://github.com/TheVinizzz/caveman)** — token-frugal mode for agentic coding. Same signal, fewer words.
+- **[Isle](https://github.com/TheVinizzz/Isle)** — turning the MacBook notch into a tiny dashboard. Music, calendar, FX rates, audio halo.
+- **[visual-dev-studio](https://github.com/TheVinizzz/visual-dev-studio)** — Tauri 2 + TS + Rust cockpit for design-to-code review with Claude Code: DOM snapshots, React/Vue/Svelte source mapping, Figma diff, visual regression.
 
-#### Reach me
+I also spend a good chunk of my week reading other people's code and contributing back — open source tooling around Claude Code, agentic dev workflows, native macOS, anything that respects the user's time.
+
+#### Say hi
 
 [linkedin.com/in/thevinizzz](https://linkedin.com/in/thevinizzz) · [viniprograming@gmail.com](mailto:viniprograming@gmail.com)
 
-<sub>Better at code reviews than small talk. Try me with a PR.</sub>
+<sub>Always happy to chat — about code, retro games, or the next dumb idea worth shipping.</sub>
