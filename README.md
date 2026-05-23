@@ -1,23 +1,21 @@
-## Hello, welcome to my profile 😄
+### Carlos Vinicius
 
-My name is Carlos Vinicius, and I'm from Brazil 🇧🇷
-<br>
-I've been building things on the web for well over a decade as a full-stack developer — and long before that, I was already knee-deep in code, cutting my teeth developing private servers for Ragnarok Online back in the golden age of the game's Brazilian scene. Those late nights debugging eAthena scripts taught me more than any classroom ever could.
+`@TheVinizzz` · João Pessoa, Brazil 🇧🇷
 
-## Fun Facts 🚀
+I've been writing code for the web for over a decade. Got started as a kid hosting Ragnarok Online private servers, debugging eAthena scripts at 3am because someone on the forum said it couldn't be done — that's still pretty much how I work.
 
-<ul>
-  <li>🧙🏻 I love Retro Games — they're the reason I got into this in the first place.</li>
-  <li>💻 I love developing games.</li>
-  <li>👨🏻‍💻 I'm always learning new technologies.</li>
-  <li>⚔️ Yes, I probably played (and hosted) your favorite private server back in the day.</li>
-</ul>
+Full-stack by trade. TypeScript and Swift pay the bills lately, with a lot of my 2026 going into agentic tooling around Claude Code and native macOS work.
 
-Would you like to find me?
+If something here is useful to you, take it. PRs welcome, issues welcomer, DMs open. The repos with no README aren't abandoned — they're just shy.
 
-<a href="https://github.com/thevinizzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinizzz&layout=compact&langs_count=7&theme=vue">
-</a>
+#### A few things I'm building right now
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thevinizzz/)](https://www.linkedin.com/in/thevinizzz/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ViniPB)](https://www.facebook.com/ViniPB)
+- **[Isle](https://github.com/TheVinizzz/Isle)** — making the MacBook notch earn its keep. Music, calendar, FX rates, audio halo.
+- **[huashu-design](https://github.com/TheVinizzz/huashu-design)** — HTML-native design skill for Claude Code. Prototypes, slides, animation, MP4 export.
+- **[caveman](https://github.com/TheVinizzz/caveman)** — token-frugal mode for agentic coding. Same signal, fewer words.
+
+#### Reach me
+
+[linkedin.com/in/thevinizzz](https://linkedin.com/in/thevinizzz) · [viniprograming@gmail.com](mailto:viniprograming@gmail.com)
+
+<sub>Better at code reviews than small talk. Try me with a PR.</sub>
