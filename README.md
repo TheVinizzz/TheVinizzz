@@ -1,3 +1,50 @@
+<!--GARRY:START-->
+<div align="center">
+
+## 🍪 Deixa um petisco para o Garry
+
+<a href="https://github.com/TheVinizzz/garry/issues/new?template=treat.yml" title="deixa um petisco pro Garry">
+  <img alt="Garry — clica em mim!" src="https://raw.githubusercontent.com/TheVinizzz/garry/main/garry.svg?v=2026-05-23T06%3A02%3A05.789Z" width="460"/>
+</a>
+
+_Garry just woke up · `2026-05-23 06:02 UTC`_
+
+<table><tr>
+
+    <td align="center" width="92">
+      <a href="https://github.com/TheVinizzz/garry/issues/new?template=treat.yml" title="petisco">
+        <img alt="petisco" src="https://img.shields.io/badge/%F0%9F%8D%AA-petisco-ffd84a?style=for-the-badge&labelColor=1f1814" height="44"/>
+      </a>
+    </td>
+
+    <td align="center" width="92">
+      <a href="https://github.com/TheVinizzz/garry/issues/new?template=pet.yml" title="cafuné">
+        <img alt="cafuné" src="https://img.shields.io/badge/%F0%9F%A4%9A-cafun%C3%A9-ff7eb4?style=for-the-badge&labelColor=1f1814" height="44"/>
+      </a>
+    </td>
+
+    <td align="center" width="92">
+      <a href="https://github.com/TheVinizzz/garry/issues/new?template=feed.yml" title="almoço">
+        <img alt="almoço" src="https://img.shields.io/badge/%F0%9F%8D%A3-almo%C3%A7o-f59a3a?style=for-the-badge&labelColor=1f1814" height="44"/>
+      </a>
+    </td>
+
+    <td align="center" width="92">
+      <a href="https://github.com/TheVinizzz/garry/issues/new?template=play.yml" title="brincar">
+        <img alt="brincar" src="https://img.shields.io/badge/%F0%9F%A7%B6-brincar-b78bff?style=for-the-badge&labelColor=1f1814" height="44"/>
+      </a>
+    </td>
+
+    <td align="center" width="92">
+      <a href="https://github.com/TheVinizzz/garry/issues/new?template=sleep.yml" title="soneca">
+        <img alt="soneca" src="https://img.shields.io/badge/%F0%9F%92%A4-soneca-7fc7ea?style=for-the-badge&labelColor=1f1814" height="44"/>
+      </a>
+    </td>
+</tr></table>
+
+</div>
+<!--GARRY:END-->
+
 ### Carlos Vinicius
 
 `@TheVinizzz` · João Pessoa, Brazil 🇧🇷
